@@ -1,0 +1,30 @@
+[
+    {
+        "option_1": "test1",
+        "option_2": "test2",
+        "mature": false,
+        "votes_1": 6,
+        "votes_2": 0
+    },
+    {
+        "option_1": "test1!",
+        "option_2": "test2!",
+        "mature": true,
+        "votes_1": 1,
+        "votes_2": 5
+    },
+    {
+        "option_1": "1 Million dollars",
+        "option_2": "Famous",
+        "mature": false,
+        "votes_1": 2,
+        "votes_2": 1
+    },
+    {
+        "option_1": "A pet dog",
+        "option_2": "A pet cat",
+        "mature": false,
+        "votes_1": 0,
+        "votes_2": 2
+    }
+]
